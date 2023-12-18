@@ -2,7 +2,8 @@
 
 - This Repository contains source code of Linux Tools and Internals which I learned during my training/internship.
 - Technologies Learned 
-- <ol>Linux Kernel Services
+- Linux Kernel Services
+	<ol>
 	<li>System calls</li>
 	<li>Command Line Arguments</li>
 	<li>Static/Dynamic Libraries</li>
